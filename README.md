@@ -12,5 +12,13 @@
   <br>
 3.) liquid crystal library // https://github.com/junwha0511/LiquidCrystal_I2C_Hangul
 </p>
-you can either download them directly inside the arduino IDE by following these steps go to "sketch>include library>manage libraries...>then search these 3 libraries and add them". 
-You can also download them from any browser (download links are given above) and then transfer them to this destination "C:\Users\ "your current user" \Documents\Arduino\libraries" in your computer.
+you can either download them directly inside the arduino IDE by following these steps
+<br>
+go to->  [ sketch>include library>manage libraries>"search these 3 libraries and add them" ]. 
+<br>
+You can also download them from any browser (download links are given above) and then transfer them to this destination- 
+<br>
+[ "C:\Users\ "your current user" \Documents\Arduino\libraries" ]  in your computer.
+<br>
+<br>
+After completing this you can download the "temp. controlled load using arduino.ino" file from the repository and open it inside your arduino IDE for any modifications.
