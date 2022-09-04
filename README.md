@@ -1,9 +1,9 @@
 # temperature-controlled-load-using-arduino
-<i>this is the sourcode of the sketch file which is made in arduino IDE </i>
 
-<h3>For this to work you have to 1st download arduino IDE then  
+
+<h3><i>For this to work you have to 1st download arduino IDE then  
   <br>
-  you also have to download 3 libraries which are-</h3>
+  you also have to download 3 libraries which are-</i></h3>
 <p>
 
 1.) one wire library // https://www.arduino.cc/reference/en/libraries/onewire/
