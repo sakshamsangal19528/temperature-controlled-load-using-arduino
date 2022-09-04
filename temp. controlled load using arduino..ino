@@ -19,7 +19,6 @@ void setup()
   Serial.begin(9600);   // initialize serial
   sensors.begin();    // initialize the sensor
   Lcd.init();   // initialize the LCD
-  //Wire.begin(2,0);
   Lcd.backlight();
   Lcd.clear();
   Lcd.setCursor(0,0);
