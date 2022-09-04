@@ -1,5 +1,5 @@
-# temperature-controlled-load-using-arduino
-
+# temperature-controlled-load-using-arduino.
+<h2><i>This repository contains the source code for the project "Temp controlled load using arduino". </i></h2>
 
 <h3><i>For this to work you have to 1st download arduino IDE then  
   <br>
