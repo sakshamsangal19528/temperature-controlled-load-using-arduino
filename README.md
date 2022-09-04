@@ -1,2 +1,16 @@
 # temperature-controlled-load-using-arduino
-this is the sourcode of the sketch file which is made in arduino IDE 
+<i>this is the sourcode of the sketch file which is made in arduino IDE </i>
+
+<h3>For this to work you have to 1st download arduino IDE then  
+  <br>
+  you also have to download 3 libraries which are-</h3>
+<p>
+
+1.) one wire library // https://www.arduino.cc/reference/en/libraries/onewire/
+  <br>
+2.) dallas temperature library// https://www.arduino.cc/reference/en/libraries/dallastemperature/
+  <br>
+3.) liquid crystal library // https://github.com/junwha0511/LiquidCrystal_I2C_Hangul
+</p>
+you can either download them directly inside the arduino IDE by following these steps go to "sketch>include library>manage libraries...>then search these 3 libraries and add them". 
+You can also download them from any browser (download links are given above) and then transfer them to this destination "C:\Users\ "your current user" \Documents\Arduino\libraries" in your computer.
